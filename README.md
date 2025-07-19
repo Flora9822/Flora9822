@@ -17,10 +17,11 @@ Stylised & physically‑informed CG across <strong>Maya ↔ Houdini</strong>: pr
 
 ---
 
-### 🎴 Project Tiles (Click to Open)
+### 🎴 Project Tiles (2 × 3 Grid)
 
 <div align="center">
 
+<!-- Row 1 -->
 <a href="https://github.com/Flora9822/Maya_Project" style="text-decoration:none;margin:12px;display:inline-block;">
   <img src="https://raw.githubusercontent.com/Flora9822/Maya_Project/main/assets/turntable.gif" width="230" alt="Maya Project Preview"/><br>
   <b>Maya Project</b><br>
@@ -39,8 +40,9 @@ Stylised & physically‑informed CG across <strong>Maya ↔ Houdini</strong>: pr
   <sub>Garden HDA + Pyro</sub>
 </a>
 
-<br>
+<br><!-- Force break between rows -->
 
+<!-- Row 2 -->
 <a href="https://github.com/Flora9822/Group_Project" style="text-decoration:none;margin:12px;display:inline-block;">
   <img src="https://raw.githubusercontent.com/Flora9822/Group_Project/main/assets/explosion_turntable_thumb.jpg" width="230" alt="Group Project Explosion"/><br>
   <b>Group Project (EVE)</b><br>
@@ -48,51 +50,12 @@ Stylised & physically‑informed CG across <strong>Maya ↔ Houdini</strong>: pr
 </a>
 
 <a href="https://github.com/NCCA/pipeline-project-Flora9822" style="text-decoration:none;margin:12px;display:inline-block;">
-  <img src="https://raw.githubusercontent.com/NCCA/pipeline-project-Flora9822/main/static/icon.png" width="230" alt="ImageLibrary Icon"/><br>
+  <img src="https://raw.githubusercontent.com/NCCA/pipeline-project-Flora9822/main/static/homepage.png" width="230" alt="ImageLibrary App"/><br>
   <b>ImageLibrary</b><br>
   <sub>Flask Moodboards</sub>
 </a>
 
-<a href="https://github.com/Flora9822/MScProject" style="text-decoration:none;margin:12px;display:inline-block;">
-  <img src="https://raw.githubusercontent.com/Flora9822/MScProject/main/preview.jpg" width="230" alt="MSc Project Preview"/><br>
-  <b>MSc Project</b><br>
-  <sub>(Summary Coming)</sub>
-</a>
-
 </div>
-
----
-
-### 🧩 Featured Repositories (Text Overview)
-
-| Project | Focus | Core Tech | Highlights |
-|---------|-------|----------|------------|
-| pipeline-project-Flora9822 | ImageLibrary web app | Flask, Docker, CI, Tests | Upload / tag / moodboards; container + coverage |
-| Maya_Project | Impossible staircase snow globe | Maya, MASH, Arnold | Escher illusion + instanced snow |
-| Renderman | Liquid blush product render | Renderman, Python | PxrSurface look‑dev + scripted render |
-| Houdini_Project | Garden generator & Pyro FX | Houdini HDA, VDB | Parametric flora layout + explosion volumes |
-| Group_Project | Team FX & asset integration | Maya, Houdini, Arnold | Modelling + nCloth + Pyro → VDB pipeline |
-| MScProject | (MSc main project) | (Fill) | (Add 1‑line goal / result) |
-
----
-
-### 🛠 Core Skill Matrix
-
-| Domain | Practical Focus | Tooling |
-|--------|-----------------|---------|
-| Modelling | Quad topology, stylised props | Maya |
-| Simulation | nCloth, MASH instancing | Maya / MASH |
-| FX / Volumes | Pyro fire & smoke, dust | Houdini Pyro, VDB |
-| Procedural | Parametric HDA assets | Houdini |
-| Look‑Dev | Glass / liquid / metal surfacing | Arnold / Renderman |
-| Integration | Houdini → VDB → Maya | Arnold Volume |
-| Pipeline | Batch automation / compression | Python, ffmpeg, Docker |
-| Documentation | Reproducible READMEs | Markdown |
-
----
-
-### 📄 Documentation Pointers
-Explosion pipeline → <em>Group_Project</em> · Garden params → <em>Houdini_Project</em> · Shading notes → <em>Renderman</em> · Web architecture / CI → <em>pipeline-project</em>
 
 ---
 
