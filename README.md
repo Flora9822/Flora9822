@@ -1,12 +1,14 @@
 ### About
-MSc Computer Animation & VFX (BU, Sep 2025). Focus: procedural FX (Pyro / nCloth), VDB look-dev, Arnold & Renderman shading, lightweight pipeline scripting.
+**MSc Computer Animation and VFX (BU · Sep 2025)**  
+Procedural & FX integration → *Houdini Pyro · Maya nCloth/MASH · VDB → Arnold/Renderman* + shader/look‑dev & lightweight Python tooling.
 
 ### Projects
-- **Maya:** [Maya_Project](https://github.com/Flora9822/Maya_Project) – Impossible staircase snow globe  
-- **Shading / Product:** [Renderman](https://github.com/Flora9822/Renderman) – Liquid blush look‑dev  
-- **Procedural Env / FX:** [Houdini_Project](https://github.com/Flora9822/Houdini_Project) – Garden HDA + Pyro  
-- **Team FX:** [Group_Project](https://github.com/Flora9822/Group_Project) – Explosion & nCloth integration  
-- **Web Tool:** [ImageLibrary](https://github.com/NCCA/pipeline-project-Flora9822) – Flask moodboards (Docker + CI)  
+| | | |
+|---|---|---|
+| [🌀 **Maya Project**](https://github.com/Flora9822/Maya_Project)<br><sub>Escher staircase + snow</sub> | [💄 **Renderman**](https://github.com/Flora9822/Renderman)<br><sub>Liquid blush look‑dev</sub> | [🌿 **Houdini Garden**](https://github.com/Flora9822/Houdini_Project)<br><sub>Parametric HDA + Pyro</sub> |
+| [💥 **Group FX**](https://github.com/Flora9822/Group_Project)<br><sub>Explosion + nCloth</sub> | [🗂 **ImageLibrary**](https://github.com/NCCA/pipeline-project-Flora9822)<br><sub>Flask moodboards</sub> | 
 
 ### Stack
-Maya · Houdini · Arnold · Renderman · Pyro · nCloth · MASH · VDB · Python · Docker
+**Tools:** Maya · Houdini · Arnold · Renderman  
+**FX:** Pyro · nCloth · MASH · VDB  
+**Scripting / Infra:** Python · ffmpeg · Docker
