@@ -1,35 +1,71 @@
-<h1 align="center">Hi, I'm Flora 👋</h1>
+<h1 align="center">Hi, I'm Flora (Xiaohelaiti Feiluore) 👋</h1>
 <p align="center">
-3D Modelling & FX • Maya / Houdini / Arnold / Renderman<br>
-Cross‑DCC pipeline: Simulation → VDB / Geometry → Look‑dev
+<strong>3D Modelling & FX Artist · Procedural & Rendering Integration</strong><br>
+<span style="font-size:90%">Maya · Houdini · Arnold · Renderman · nCloth · Pyro · VDB · Python</span>
 </p>
 
 <p align="center">
-<a href="mailto:YOUR_EMAIL_HERE">Email</a>
+🎓 MSc Computer Animation & Visual Effects · Bournemouth University (Graduating: <strong>September 2025</strong>)<br>
+📬 <a href="mailto:florare9822@gmail.com">florare9822@gmail.com</a>
 </p>
 
 ---
 
-### 🚀 Featured Repositories
-| Project | Focus | Tech |
-|---------|-------|------|
-| [pipeline-project-Flora9822](https://github.com/NCCA/pipeline-project-Flora9822) | Image reference & moodboards | Flask, Docker, CI |
-| [Maya_Project](https://github.com/Flora9822/Maya_Project) | Impossible staircase snow globe | Maya, MASH, Arnold |
-| [Renderman](https://github.com/Flora9822/Renderman) | Liquid blush product render | Renderman, Python |
-| [Houdini_Project](https://github.com/Flora9822/Houdini_Project) | Garden generator & Pyro FX | Houdini HDA, VDB |
-| [Group_Project](https://github.com/Flora9822/Group_Project) | Team FX & assets (EVE) | Maya, Houdini |
-| [MScProject](https://github.com/Flora9822/MScProject) | (MSc main work summary) | (Fill) |
+### 🚀 Snapshot
+Stylised & physically‑informed CG across **Maya ↔ Houdini**: procedural layout (HDA), clean topology, simulation (nCloth / Pyro), VDB volume integration, and renderer‑ready look‑dev (Arnold / Renderman). Interest in *tool‑oriented, reproducible pipelines*.
 
-### 🔥 FX Glimpse
+### 🔥 FX Glimpse (Explosion VDB → Arnold)
 <video src="https://raw.githubusercontent.com/Flora9822/Group_Project/main/assets/explosion_turntable_v01_comp.mp4"
-       width="360" autoplay loop muted playsinline></video>
-
-### 🧪 Core Skills
-Procedural modelling · Pyro / nCloth · VDB → Arnold · Look‑dev · Lightweight pipelines.
-
-### 🌐 中文简介
-跨 Maya 与 Houdini 的建模 + 特效整合；注重可复现流程与渲染呈现。
+       width="400" autoplay loop muted playsinline></video>
 
 ---
 
-⭐ *Thanks for visiting — explore the pinned repositories.*
+### 🧩 Featured Repositories
+| Project | Focus | Core Tech | Highlights |
+|---------|-------|----------|------------|
+| pipeline-project-Flora9822 | ImageLibrary web app | Flask, Docker, CI, Tests | Upload / tag / moodboards; container + coverage |
+| Maya_Project | Impossible staircase snow globe | Maya, MASH, Arnold | Escher illusion + instanced snow |
+| Renderman | Liquid blush product render | Renderman, Python | PxrSurface look‑dev + scripted render |
+| Houdini_Project | Garden generator & Pyro FX | Houdini HDA, VDB | Parametric flora layout + explosion volumes |
+| Group_Project | Team FX & asset integration | Maya, Houdini, Arnold | Modelling + nCloth + Pyro → VDB pipeline |
+| MScProject | (MSc main project) | (Fill) | (Add 1‑line goal / result) |
+
+---
+
+### 🛠 Core Skill Matrix
+| Domain | Practical Focus | Tooling |
+|--------|-----------------|---------|
+| Modelling | Quad topology, stylised props | Maya |
+| Simulation | nCloth, MASH instancing | Maya / MASH |
+| FX / Volumes | Pyro fire & smoke, dust | Houdini Pyro, VDB |
+| Procedural | Parametric HDA assets | Houdini |
+| Look‑Dev | Glass / liquid / metal surfacing | Arnold / Renderman |
+| Integration | Houdini → VDB → Maya | Arnold Volume |
+| Pipeline | Batch automation / compression | Python, ffmpeg, Docker |
+| Documentation | Reproducible READMEs | Markdown |
+
+---
+
+### 🎯 Focus (Near-Term)
+- Handgun hero prop turntable  
+- Mini public Garden HDA (clean parameter set)  
+- Volume shader preset pack (density / emission mappings)  
+- Wireframe + UV composite sheets (staircase & garden)  
+- Dust VDB pack with shader notes  
+
+---
+
+### 📄 Documentation Pointers
+- Explosion pipeline → **Group_Project**
+- Garden procedural parameters → **Houdini_Project**
+- Liquid blush shading notes → **Renderman**
+- Web app architecture / CI → **pipeline-project**
+
+---
+
+### 📫 Contact
+**Email:** florare9822@gmail.com
+
+---
+
+⭐ *Thanks for visiting — explore the repositories above.*
